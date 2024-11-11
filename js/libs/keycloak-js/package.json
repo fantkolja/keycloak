@@ -2,6 +2,7 @@
   "name": "keycloak-js",
   "version": "999.0.0-SNAPSHOT",
   "type": "module",
+  "main": "./lib/keycloak.js",
   "description": "A client-side JavaScript OpenID Connect library that can be used to secure web applications.",
   "exports": {
     ".": {
